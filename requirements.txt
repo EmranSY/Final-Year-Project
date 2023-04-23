@@ -1,0 +1,10 @@
+customtkinter
+mysql.connector
+hashlib
+schedule
+requests
+pandas as pd
+docx
+matplotlib
+seaborn
+snscrape
